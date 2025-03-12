@@ -22,4 +22,9 @@ public class Recursao {
         Recursao recursao = new Recursao();
         System.out.println("Fatorial de 5: " + recursao.fatorial(5)); // Output: 120
     }
+
+    public String somatorio(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'somatorio'");
+    }
 }
